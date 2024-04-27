@@ -1,0 +1,9 @@
+langchain 
+pypdf 
+chromadb 
+google-generativeai 
+langchain-google-genai 
+python-dotenv
+pymupdf
+frontend
+fitz
