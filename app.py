@@ -1,4 +1,5 @@
 import streamlit as st
+import google.generativeai as genai
 from langchain import PromptTemplate
 from langchain.chains.question_answering import load_qa_chain
 from langchain.document_loaders import PyPDFDirectoryLoader
