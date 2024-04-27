@@ -4,6 +4,7 @@ chromadb
 google-generativeai 
 langchain-google-genai 
 python-dotenv
-pymupdf
+PyMuPDF
 frontend
 fitz
+tools
