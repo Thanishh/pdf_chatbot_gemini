@@ -6,5 +6,4 @@ langchain-google-genai
 python-dotenv
 PyMuPDF
 frontend
-fitz
 tools
